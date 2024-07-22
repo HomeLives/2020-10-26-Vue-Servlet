@@ -1,18 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T01:29:17.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_OBgqqjDsWS6aV8id4iJ" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T01:35:09.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uMk94HdZeMEyV-zSlHrS" version="24.7.1" type="github">
   <diagram name="第 1 页" id="2n7TYsJZqHrsQaq0MqB4">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#f2f2f2" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n7YawFP_JTmswpz-3vQ4-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="200" y="170" width="5" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="n7YawFP_JTmswpz-3vQ4-2" value="State1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="n7YawFP_JTmswpz-3vQ4-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="90" width="30" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
